@@ -1,0 +1,24 @@
+{
+  "name": "ast_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.tq.lc:30000/root/ast_tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.13.9",
+    "@babel/parser": "^7.13.13",
+    "@babel/traverse": "^7.13.13",
+    "@babel/types": "^7.13.13",
+    "iconv-lite": "^0.6.2",
+    "log4js": "^6.3.0",
+    "md5-node": "latest"
+  }
+}
