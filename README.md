@@ -17,6 +17,7 @@ ast_tools框架，是我从esprima转向babel后重新开发的一套JS AST还�
 cd ast_tools
 npm install
 ```
++ 下载测试代码并将测试js代码放在demos/demo1文件夹中
 + 运行
 ```shell
 node main.js
@@ -29,6 +30,8 @@ node main.js
 本项目仅作ast算法策略演示以及节点合并算法研究记录，本项目不针对任何加密做破解等处理，只为学习AST技术。
 
 本项目仅作学习研究之用，下载学习后限24小时内删除，不可用于破解（本身也不包含破解功能），如使用本工具造成任何法律后果，由使用者承担。
+
+为防止法律风险已将测试代码删除，测试代码可从网盘下载 https://wwc.lanzoum.com/i1Mmq01brwsf
 
 ## 友情推荐
 
